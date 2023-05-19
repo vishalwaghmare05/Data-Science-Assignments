@@ -97,7 +97,9 @@ This command use to reverse back to previous commit state by removing modificati
     
 This command is use to remove modification of multiple files and get back to previous commit state.
 
-
+    git remote -v
+    
+ This command shows remote repository, on which we are working.
 
     
 
